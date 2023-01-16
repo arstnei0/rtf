@@ -1,0 +1,11 @@
+target
+router/node
+router/web
+target/*
+**/*.rs.bk
+Cargo.lock
+router/bin
+router/pkg
+dist
+wasm-pack.log
+node_modules
